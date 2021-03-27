@@ -1,0 +1,14 @@
+img {
+    border-radius: 5px;
+    box-shadow: unset;
+}
+
+.img-responsive{
+    border-radius: 5px;
+    box-shadow: unset;
+}
+
+code{
+    padding: unset;
+    font-weight: bolder;
+}
