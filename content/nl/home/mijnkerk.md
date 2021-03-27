@@ -21,10 +21,10 @@ aan wijk gebonden activiteiten zoals een wijkavond of wijkmiddag.
 
 #### Groep toevoegen
 
-Binnen onze gemeente zijn er veel verschillende **(bijbel)groepen en commissies**. **We moedigen aan om hiervoor groepen
-aan te maken**. Helemaal aan de rechterkant van de groepen staat een plusje. Met het klikken op het plusje kun je een
-nieuwe groep aanmaken. Selecteer een groepsfoto, groepsnaam en groepsbeschrijving en klik op volgende. Je kunt nu leden
-toevoegen: wie moeten er in de groep? Selecteer deze leden en klik op ‘aanmaken’.
+Binnen onze gemeente zijn er veel verschillende **(bijbel)groepen, (jeugd)verenigingen en commissies**. **We moedigen
+aan om hiervoor groepen aan te maken**. Helemaal aan de rechterkant van de groepen staat een plusje. Met het klikken op
+het plusje kun je een nieuwe groep aanmaken. Selecteer een groepsfoto, groepsnaam en groepsbeschrijving en klik op
+volgende. Je kunt nu leden toevoegen: wie moeten er in de groep? Selecteer deze leden en klik op ‘aanmaken’.
 
 Naast berichten kunnen ook agenda items gedeeld worden (zie agenda), op die manier kan je precies zien wanneer
 bijvoorbeeld de volgende bijbelkringavond of commissievergadering is.
@@ -35,10 +35,14 @@ Je kunt op **berichten reageren** of zelf een **nieuw bericht plaatsen**. Als je
 waarin je dit bericht wil plaatsen. Dit kunnen alleen groepen zijn waar je zelf in zit. In de groepen `Welkom` en de
 groepen van de wijken, kunnen alleen de beheerders berichten plaatsen. Reageren op de berichten kan wel.
 
+Vanuit commissies, verengingen, wijkkerkenraad e.d. kunnen berichten geplaatst worden, maar dat gebeurt dan door een
+gemeentelid, niet met een commissie-account. Op deze manier krijgt een commissie ook veel meer gezicht en zichtbaarheid
+in de gemeente.
+
 #### Bericht wijzigen of verwijderen
 
 Mocht je een fout gemaakt hebben, dan kan het bericht ook altijd aangepast of verwijdert worden.
 
 #### Meldingen
 
-Het is mogelijk om per groep in stellen of je meldingen wilt ontvangen, zie 'Profiel' voor de instellingen hiervoor.
+Het is mogelijk om per groep in stellen of je meldingen wilt ontvangen, zie ['Profiel'](#profiel) voor de instellingen hiervoor.

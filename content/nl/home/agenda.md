@@ -14,9 +14,9 @@ de app alle groepen kan zien waar je in zit en weer **per groep** de agenda-item
 De `Mijn kerk` groep toont alle evenementen uit **alle groepen** waar je in zit. Zo zie je direct in één oogopslag wat
 het eerst volgende interessante kalender item voor je is!
 
-#### Bijbelkringavond of commissievergadering?
+#### Bijbelkringavond of commissievergadering
 
-Binnen onze gemeente zijn er veel verschillende **(bijbel)groepen en commissies**. **We moedigen aan om hiervoor groepen
+Binnen onze gemeente zijn er veel verschillende **(bijbel)groepen, (jeugd)verenigingen en commissies**. **We moedigen aan om hiervoor groepen
 aan te maken** (zie hierboven hoe dat kan). Voor een groep kunnen agenda items toegevoegd worden. Op die manier kan je
 precies zien wanneer bijvoorbeeld de volgende bijbelkringavond of commissievergadering is.
 

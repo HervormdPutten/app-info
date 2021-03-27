@@ -12,3 +12,16 @@ code{
     padding: unset;
     font-weight: bolder;
 }
+
+.hero-body {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url("images/iphone_app_screenshots.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-body .three {
+    background-image: url("logo.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 150px;
+}
