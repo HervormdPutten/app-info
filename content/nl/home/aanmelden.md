@@ -6,8 +6,10 @@ weight: 1
 
 Voordat je de app kunt gebruiken moet je jezelf eerst registreren in de app. Download de app in
 de [Google Play store](https://play.google.com/store/apps/details?id=app.donkeymobile.hervormdputten)
-of [Apple App Store](https://apps.apple.com/us/app/hervormde-gemeente-putten/id1555314349). Download de app en starten
-maar!
+of [Apple App Store](https://apps.apple.com/us/app/hervormde-gemeente-putten/id1555314349) of scan de QR code hieronder.
+Download de app en starten maar!
+
+{{< figure src="images/qr.png" width="100px" class="img-noborder" alt="QR code" >}}
 
 Zodra je voor het eerst aan de slag gaat in de app zul je een email adres in moeten vullen en een wachtwoord moeten
 kiezen. Heb je je van tevoren bij je gemeente al geregistreerd voor de app? Vul hier dan het email adres in waarmee je
@@ -18,9 +20,8 @@ een app beheerder je account goed moet keuren zodra je de registratie voltooid h
 
 2. Kies een wachtwoord.
 
-3. Je hebt een **email** ontvangen (van Donkey Mobile, de makers van de app) waarmee je het **account** moet **
-   valideren**. We willen natuurlijk zeker weten dat jij het echt bent! In de email staat een knop, klik hierop om je
-   account te valideren.
+3. Je hebt een **email** ontvangen (van Donkey Mobile) waarmee je het **account** moet **valideren**. We willen
+   natuurlijk zeker weten dat jij het echt bent! In de email staat een knop, klik hierop om je account te valideren.
 
 4. De app stuurt je nu automatisch door naar het volgende scherm. Vul hier je voornaam en achternaam in. Kies ook een
    profiel foto. Zo kunnen je gemeenteleden zien wie je bent (extra leuk als je er zelf ook echt op staat!).

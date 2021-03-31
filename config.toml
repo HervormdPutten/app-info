@@ -89,6 +89,6 @@ defaultContentLanguage = "nl"
         title            = "App Hervormd Putten"
         [languages.nl.params]
             description  = "Informatie over de app van de Hervormde Gemeente Putten"   # Max 160 characters show in search results
-            # footerText   = ""                      # Text to override default footer text (markdown allowed)
+            footerText   = "Hervormde Gemeente Putten"                      # Text to override default footer text (markdown allowed)
 
 
