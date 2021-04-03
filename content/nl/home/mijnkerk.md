@@ -17,7 +17,8 @@ gebruik van de app te delen.
 #### Wijken
 
 Voor de 5 wijken hebben we een groep aangemaakt. In deze groepen kan informatie gericht op die wijk gezet worden. Denk
-aan wijk gebonden activiteiten zoals een wijkavond of wijkmiddag.
+aan wijk gebonden activiteiten zoals een wijkavond of wijkmiddag. Standaard is iedereen lid van alle wijken. Je kunt een
+wijk verlaten als je geen berichten wilt ontvangen uit die wijk.
 
 #### Groep toevoegen
 
@@ -28,6 +29,11 @@ volgende. Je kunt nu leden toevoegen: wie moeten er in de groep? Selecteer deze 
 
 Naast berichten kunnen ook agenda items gedeeld worden (zie agenda), op die manier kan je precies zien wanneer
 bijvoorbeeld de volgende bijbelkringavond of commissievergadering is.
+
+#### Groep verlaten
+
+Als je een groep wilt verlaten, dan kan je bovenaan op de naam van de groep klikken, daarmee opent de informatie van die
+groep. Helemaal onderaan het scherm staat dan de optie `Verlaat groep`, die moet je dan aanklikken.
 
 #### Bericht plaatsen of reageren
 
@@ -45,4 +51,5 @@ Mocht je een fout gemaakt hebben, dan kan het bericht ook altijd aangepast of ve
 
 #### Meldingen
 
-Het is mogelijk om per groep in stellen of je meldingen wilt ontvangen, zie ['Profiel'](#profiel) voor de instellingen hiervoor.
+Het is mogelijk om per groep in stellen of je meldingen wilt ontvangen, zie ['Profiel'](#profiel) voor de instellingen
+hiervoor.
