@@ -25,10 +25,21 @@ wijk verlaten als je geen berichten wilt ontvangen uit die wijk.
 Binnen onze gemeente zijn er veel verschillende **(bijbel)groepen, (jeugd)verenigingen en commissies**. **We moedigen
 aan om hiervoor groepen aan te maken**. Helemaal aan de rechterkant van de groepen staat een plusje. Met het klikken op
 het plusje kun je een nieuwe groep aanmaken. Selecteer een groepsfoto, groepsnaam en groepsbeschrijving en klik op
-volgende. Je kunt nu leden toevoegen: wie moeten er in de groep? Selecteer deze leden en klik op ‘aanmaken’.
+volgende. Je kunt nu leden toevoegen: wie moeten er in de groep? Selecteer deze leden en klik op ‘aanmaken’.    
+
+>**Handige tip**:
+Ben je een groepsbeheerder? Voeg een beknopte beschrijving aan je groep toe, zodat de juiste mensen makkelijk je groep vinden. 
+> Nog een tip: afbeeldingen zeggen meestal meer dan woorden! Zorg ook gelijk dat je een goede groepsfoto toevoegt, zodat je groep sneller herkend wordt.
 
 Naast berichten kunnen ook agenda items gedeeld worden (zie agenda), op die manier kan je precies zien wanneer
 bijvoorbeeld de volgende bijbelkringavond of commissievergadering is.
+
+#### Toegang tot bestaande groepen
+
+Het is mogelijk om bestaande groepen te bekijken door de knop `Ontdek` in de groep `Mijn kerk`.   
+In het overzicht van groepen is het mogelijk om toegang te vragen tot een groep. De groepsbeheerder krijgt het verzoek te zien en geeft toegang. 
+
+Bent je een groepsbeheerder? Dan krijg je een melding wanneer iemand toegang vraagt tot jouw groep. Op de groepsdetail pagina zie je alle personen die op toegang wachten.
 
 #### Groep verlaten
 

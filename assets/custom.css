@@ -27,10 +27,21 @@ code{
     height: 150px;
 }
 
+.markdown blockquote {
+    color: unset;
+    border-left: .25rem solid #2b7770;
+}
+
+.markdown blockquote p {
+    margin-bottom: unset;
+}
+
+
 .img-noborder img {
     border-radius: unset;
     border: unset;
     box-shadow: unset;
+    border-width: thin;
 }
 
 
