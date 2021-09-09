@@ -16,22 +16,25 @@ kiezen. Heb je je van tevoren bij je gemeente al geregistreerd voor de app? Vul 
 bij de gemeente bekend bent. Als je nog niet van tevoren jezelf hebt ingeschreven voor de app is de kans aanwezig dat
 een app beheerder je account goed moet keuren zodra je de registratie voltooid hebt.
 
-1. Vul je email adres in.
+{{< figure src="images/registration.png" class="img-noborder" alt="Registratie stappen" >}}
 
-2. Kies een wachtwoord.
+1. Installeer de app op uw mobiel
 
-3. Je hebt een **email** ontvangen (van Donkey Mobile) waarmee je het **account** moet **valideren**. We willen
-   natuurlijk zeker weten dat jij het echt bent! In de email staat een knop, klik hierop om je account te valideren.
+2. Vul je email adres in en kies in het scherm daarna een wachtwoord.
 
-4. De app stuurt je nu automatisch door naar het volgende scherm. Vul hier je voornaam en achternaam in. Kies ook een
+3. Je hebt een **email** ontvangen (van Donkey Mobile - no-reply@donkeymobile.app) waarmee je het **account** moet **bevestigen**.
+   Daarmee wordt gecontroleerd of het emailadres echt bestaat.
+
+4. Zodra het emailadres is bevestigd, stuurt de app automatisch door naar het volgende scherm. Vul hier je voornaam en achternaam in. Kies ook een
    profiel foto. Zo kunnen je gemeenteleden zien wie je bent (extra leuk als je er zelf ook echt op staat!).
 
 ![](images/nog_niet_goedgekeurd.png)
 
-5. Na deze stap **controleren** we of jouw email adres al in de **ledenadministratie** van onze kerk staat. Als dat het
+   Na het invullen word er een bericht gestuurd naar de beheerders om toegang te verlenen. 
+   De beheerders **controleren** of jouw email adres al in de **ledenadministratie** van onze kerk staat. Als dat het
    geval is, dan wordt jouw account snel goed gekeurd. Als dat niet het geval is, dan volgt er een email van
-   app@hervormdputten.nl met de vraag om meer informatie te geven en we vragen je toestemming om jouw emailadres op te
+   **app@hervormdputten.nl** met de vraag om meer informatie te geven en we vragen je toestemming om jouw emailadres op te
    nemen in de ledenadministratie.
+   Zodra u de email heeft beantwoord kunnen de beheerders toegang verlenen.
 
-Gefeliciteerd, nu zit je in de app! Mocht je account eerst goedgekeurd moeten worden door een beheerder zal dit nu in
-beeld getoond worden. Geen zorgen, zodra je account goedgekeurd is krijg je hier een berichtje van in de app!
+5. Welkom in de app van onze Hervormde Gemeente.
