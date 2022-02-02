@@ -1,7 +1,7 @@
 ---
 title: "Profiel"
 image: "profiel.png"
-weight: 6
+weight: 80
 ---
 
 Je kunt ook je eigen profiel bekijken en bewerken onder het laatste tabje `profiel`. Hier zie je ook in welke groepen je

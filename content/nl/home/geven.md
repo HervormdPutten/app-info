@@ -1,7 +1,7 @@
 ---
 title: "Geven"
 image: "geven.png"
-weight: 4
+weight: 50
 ---
 Aan de collecte geven wordt makkelijker en daarmee leuker, toch? In de app wordt gewerkt met een saldo. Dit saldo kun je
 opwaarderen door eenvoudig met iDeal te betalen. Dit kan je vergelijken met de collectebonnen die we ook als gemeente hebben.

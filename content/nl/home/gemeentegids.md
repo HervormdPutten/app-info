@@ -1,7 +1,7 @@
 ---
 title: "Gemeente (gids)"
 image: "gemeentegids.png"
-weight: 5
+weight: 70
 ---
 
 De vierde tab in het hoofdmenu leid je naar de `gemeente` gids. Afhankelijk van wat andere gemeenteleden hebben ingevuld

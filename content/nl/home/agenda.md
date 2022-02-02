@@ -1,7 +1,7 @@
 ---
 title: "Agenda"
 image: "agenda.png"
-weight: 4
+weight: 60
 ---
 
 Onder de tweede tab in het hoofdmenu vind je de agenda. **Alle diensten** staan er in maar ook alle **vergaderingen** of
