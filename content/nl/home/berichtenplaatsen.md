@@ -16,7 +16,7 @@ in de gemeente.
 
 #### Bericht met opmaak
 
-Standaar kan je alleen berichten plaatsen met platte tekst.    
+Standaard kan je alleen berichten plaatsen met platte tekst.    
 Met een tip van DonkeyMobile (makers van de app) is het ook mogelijk om meer opmaak toe te voegen, maar het is wat omslachtige. Ze willen de app
 nog verbeteren, dat het ook makkelijker wordt.
 
