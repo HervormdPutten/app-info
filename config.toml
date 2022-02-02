@@ -15,13 +15,13 @@ contentDir = "content/nl"
 defaultContentLanguage = "nl"
 
 [params]
-    themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
+    themeStyle                   = "light"                 # Choose "light" or "dark" or "auto"
     favicon                      = "/favicons/favicon.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "youremail@email.com"   # E-mail address for contact section
+    email                        = "app@hervomdputten.nl"   # E-mail address for contact section
     customCSS                    = ["custom.css"]             # Include custom css files placed under assets/
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
     # plausible                  = true                    # Use Plausible analytics (requires an account at Plausible.io)
