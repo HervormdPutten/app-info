@@ -45,7 +45,14 @@ defaultContentLanguage = "nl"
         facebook                 = false
         pinterest                = false
 
+    [params.faro_analytics]
+        endpoint = "https://faro-collector-prod-eu-west-3.grafana.net/collect/eb9701ade6412937233855fcc8c664b3"
+        name = "app.hervormdputten.nl"
+        version = "1.0.0"
 
+[module]
+[[module.imports]]
+    path = 'faro-analytics'
 
 # If you don't want to use the default menu, you can define one by yourself
 # [[menu.main]]
