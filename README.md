@@ -1,6 +1,6 @@
 # App info | Hervormd Putten
 
-[![Github Pages](https://github.com/HervormdPutten/app-info/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/HervormdPutten/ithelp/actions/workflows/build-and-deploy.yml)   
+[![Github Pages](https://github.com/HervormdPutten/app-info/actions/workflows/github-pages.yml/badge.svg)](https://github.com/HervormdPutten/ithelp/actions/workflows/build-and-deploy.yml)   
 The live website can be visited at: [https://app.hervormdputten.nl](https://app.hervormdputten.nl)
 
 ## Local development
